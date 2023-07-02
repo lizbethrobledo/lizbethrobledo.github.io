@@ -15,10 +15,10 @@ body {
 
 /* Header/Blog Title */
 .header {
-  padding: 30px;
-  font-size: 40px;
+  padding: 40px;
+  font-size: 50px;
   text-align: center;
-  background: white;
+  background: #826C7F;
 }
 
 /* Fake image */
