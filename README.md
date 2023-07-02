@@ -10,7 +10,7 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background: #f1f1f1;
+  background: #153243;
 }
 
 /* Header/Blog Title */
