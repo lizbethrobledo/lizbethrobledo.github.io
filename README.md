@@ -1,4 +1,5 @@
 <html>
+  <title>IB CAS Project</title>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +11,7 @@
 h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
 body {font-family: "Open Sans"}
 </style>
-  <title>IB CAS Project</title>
+
 </head>
 <body class="w3-light-grey">
 
