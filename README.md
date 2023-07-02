@@ -30,7 +30,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-   background-color: white;
+   background-color: #F4EDED;
    padding: 20px;
    margin-top: 20px;
 }
