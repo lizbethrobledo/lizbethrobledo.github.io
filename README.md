@@ -9,7 +9,6 @@
 h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
 body {font-family: "Open Sans"}
 </style>
-
 </head>
 <body class="w3-light-grey">
 
@@ -18,9 +17,6 @@ body {font-family: "Open Sans"}
   <a href="#" class="w3-bar-item w3-button w3-right"><i class="fa fa-search"></i></a>
 </div>
   
-<!-- w3-content defines a container for fixed size centered content, 
-and is wrapped around the whole page content, except for the footer in this example -->
-<div class="w3-content" style="max-width:3200px">
 
   <!-- Grid -->
   <div class="w3-row w3-padding w3-border">
