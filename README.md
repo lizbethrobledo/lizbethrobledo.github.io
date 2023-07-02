@@ -174,4 +174,4 @@ body {
   <h2>Footer</h2>
 </div>
 
-</html>
+
