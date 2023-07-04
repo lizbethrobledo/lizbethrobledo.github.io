@@ -108,6 +108,11 @@ body {
   <a href="#contact">Contact</a>
 </div>
 
+ <div class="rightcolumn">
+    <div class="card">
+      <h2>Our CAS Project</h2>
+      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    </div>
 
  <div class="rightcolumn">
     <div class="card">
