@@ -10,7 +10,7 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background: #153243;
+  background: white;
 }
 
 /* Header/Blog Title */
@@ -18,7 +18,7 @@ body {
   padding: 40px;
   font-size: 50px;
   text-align: center;
-  background: #826C7F;
+  background: #F4EDED;
 }
 
 /* Fake image */
@@ -30,7 +30,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-   background-color: #F4EDED;
+   background-color: #153243;
    padding: 20px;
    margin-top: 20px;
 }
