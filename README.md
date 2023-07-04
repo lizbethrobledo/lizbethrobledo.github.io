@@ -62,7 +62,7 @@ body {
 <body>
 
 <div class="header">
-  <h2>Blog Name</h2>
+  <h2>IBUWJC</h2>
 </div>
 
 <head>
