@@ -93,7 +93,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: Gray;
   color: white;
 }
 </style>
@@ -108,6 +108,13 @@ body {
 </div>
 
 </body>
+
+ <div class="rightcolumn">
+    <div class="card">
+      <h2>About Us</h2>
+      <div class="fakeimg" style="height:100px;">Image</div>
+      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    </div>
 
 
 <div class="row">
@@ -162,15 +169,9 @@ body {
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     </div>
   </div>
-  <div class="rightcolumn">
-    <div class="card">
-      <h2>About Me</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-    </div>
-
+ 
 <div class="footer">
-  <h2>Footer</h2>
+  <h2>Don't stress too much. You got this, we believe in you!</h2>
 </div>
 
 
