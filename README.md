@@ -101,6 +101,10 @@ body {
 </head>
 <body>
 
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+</div>
+
  <div class="rightcolumn">
     <div class="card">
       <h2>Our CAS Project</h2>
