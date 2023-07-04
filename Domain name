@@ -1,1 +1,0 @@
-dig _github-pages-challenge-lizbethrobledo.example.com +nostats +nocomments +nocmd TXT
