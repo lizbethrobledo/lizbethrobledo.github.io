@@ -60,8 +60,6 @@ body {
 </style>
 </head>
 
-</body>
-
 <body>
 
 <div class="header">
