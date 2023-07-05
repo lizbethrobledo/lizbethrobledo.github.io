@@ -124,62 +124,70 @@ body {
       <h2>Language and Literature HL</h2>
       <h5>Brought you by Erica, Victoria, and William, June 23, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>Erica: </p>
+      <p>Victoria: </p>
+      <p>William: </p>
     </div>
     <div class="card">
       <h2>Environmental Science and Societies SL</h2>
       <h5>Brought you by Erica, Victoria, and William, June 30, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>Erica: </p>
+      <p>Victoria: </p>
+      <p>William: </p>
     </div>
     <div class="card">
       <h2>Psychology SL</h2>
       <h5>Brought you by Erica and William, July 7, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>Erica: </p>
+      <p>William: </p>
     </div>
     <div class="card">
       <h2>History of the Americas HL</h2>
       <h5>Brought you by Erica, Victoria, and William, July 14, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>Erica: </p>
+      <p>Victoria: </p>
+      <p>William: </p>
     </div>
       <div class="card">
       <h2>Biology SL</h2>
       <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
+      <p>Lizbeth: </p>
+      <p>Zayra: </p>
     </div>
       <div class="card">
       <h2>Math Y2 SL</h2>
       <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
+      <p>Lizbeth: </p>
+      <p>Victoria: </p>
     </div>
     <div class="card">
       <h2>Theory of Knowledge & AP Gov</h2>
       <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>Erica: </p>
+      <p>Victoria: </p>
+      <p>William: </p>
     </div>
     <div class="card">
       <h2>Spanish HL & SL</h2>
       <h5>Brought you by Erica, Victoria, and William, July 28, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>Erica: </p>
+      <p>Victoria: </p>
+      <p>William: </p>
     </div>
     <div class="card">
       <h2>German HL & SL</h2>
       <h5>Brought you by our *Special Guests* Camila, Karen, and Yaneth, August 4, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>Camila: </p>
+      <p>Karen: </p>
+      <p>Yaneth: </p>
     </div>
   </div>
 
