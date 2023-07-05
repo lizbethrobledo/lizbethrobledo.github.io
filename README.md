@@ -186,10 +186,11 @@ body {
  <div class="rightcolumn">
     <div class="card">
       <h2>Contact US</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
-      <p>You are more than welcome to email us about any question about IB classes, CAS Project, etc.
-      Lizbeth: s1677565@online.houstonisd.org
-      Erica: s1695431@online.houstonisd.org</p>
+      <p>You are more than welcome to email us about any question concerning IB classes, CAS Project, etc.</p>
+      <p>Lizbeth: s1677565@online.houstonisd.org</p>
+      <p>Erica: s1695431@online.houstonisd.org</p>
+      <p>Victoria: s1695431@online.houstonisd.org</p>
+      <p>William: s1695431@online.houstonisd.org</p>
     </div>
  
 <div class="footer">
