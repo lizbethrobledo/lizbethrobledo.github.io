@@ -149,6 +149,18 @@ body {
       <p>Some text..</p>
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     </div>
+      <div class="card">
+      <h2>Biology SL</h2>
+      <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+    </div>
+      <div class="card">
+      <h2>Math Y2 SL</h2>
+      <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+    </div>
     <div class="card">
       <h2>Theory of Knowledge & AP Gov</h2>
       <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
