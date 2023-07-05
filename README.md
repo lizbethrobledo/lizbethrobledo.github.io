@@ -8,7 +8,7 @@
 
 /* Add a gray background color with some padding */
 body {
-  font-family: Arial;
+  font-family: Times New Roman;
   padding: 20px;
   background: #153243;
 }
@@ -71,7 +71,7 @@ body {
 <style>
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Times New Roman, Helvetica, sans-serif;
 }
 
 .topnav {
