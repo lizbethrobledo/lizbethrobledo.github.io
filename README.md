@@ -118,7 +118,6 @@ body {
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
 
-
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
@@ -183,6 +182,15 @@ body {
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     </div>
   </div>
+
+ <div class="rightcolumn">
+    <div class="card">
+      <h2>Contact US</h2>
+      <div class="fakeimg" style="height:100px;">Image</div>
+      <p>You are more than welcome to email us about any question about IB classes, CAS Project, etc.
+      Lizbeth: s1677565@online.houstonisd.org
+      Erica: s1695431@online.houstonisd.org</p>
+    </div>
  
 <div class="footer">
   <h2>Don't stress too much. You got this, we believe in you!</h2>
