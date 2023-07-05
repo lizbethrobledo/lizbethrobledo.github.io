@@ -46,7 +46,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: #F4EDED;
   margin-top: 20px;
 }
 
@@ -189,8 +189,8 @@ body {
       <p>You are more than welcome to email us about any question concerning IB classes, CAS Project, etc.</p>
       <p>Lizbeth: s1677565@online.houstonisd.org</p>
       <p>Erica: s1695431@online.houstonisd.org</p>
-      <p>Victoria: s1695431@online.houstonisd.org</p>
-      <p>William: s1695431@online.houstonisd.org</p>
+      <p>Victoria: s1812631@online.houstonisd.org</p>
+      <p>William: s2191242@online.houstonisd.org</p>
     </div>
  
 <div class="footer">
