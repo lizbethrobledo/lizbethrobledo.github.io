@@ -256,7 +256,6 @@ function openCity(evt, cityName) {
   evt.currentTarget.className += " active";
 }
 </script>  
-</div>
 </body>
 
  <div class="rightcolumn">
