@@ -124,6 +124,7 @@ body {
     <div class="card">
       <h2>Classes</h2>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+      </div>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
