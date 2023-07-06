@@ -159,7 +159,7 @@ body {font-family: Times New Roman;}
 .tabcontent {
   display: none;
   padding: 6px 12px;
-  border: 1px solid #ccc;
+  border: 1px solid gray;
   border-top: none;
 }
 </style>
