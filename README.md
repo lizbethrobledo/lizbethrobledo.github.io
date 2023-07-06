@@ -170,8 +170,10 @@ body {font-family: Times New Roman;}
   <button class="tablinks" onclick="openCity(event, 'Math Y2 SL')">Math Y2 SL</button>
   <button class="tablinks" onclick="openCity(event, 'Environmental Societies and Systems SL')">Environmental Societies and Systems SL</button>
   <button class="tablinks" onclick="openCity(event, 'Biology SL')">Biology SL</button>
+  <button class="tablinks" onclick="openCity(event, 'Psychology SL')">Psychology SL</button>
   <button class="tablinks" onclick="openCity(event, 'TOK & AP Govt')">TOK & AP Govt</button>
-  <button class="tablinks" onclick="openCity(event, 'Spanish SL & HL')">Spanish SL & HL</button>
+  <button class="tablinks" onclick="openCity(event, 'Spanish SL & HL')">Spanish</button>
+  <button class="tablinks" onclick="openCity(event, 'German SL & HL')">Spanish</button>
 </div>
 
 <div id="Language and Literature HL" class="tabcontent">
@@ -183,32 +185,55 @@ body {font-family: Times New Roman;}
 
 <div id="History of the Americas HL" class="tabcontent">
   <h3>History of the Americas HL</h3>
-  <p>Paris is the capital of France.</p> 
+  <p>Erica: </p>
+  <p>Victoria: </p>
+  <p>William: </p>
 </div>
 
 <div id="Math Y2 SL" class="tabcontent">
   <h3>Math Y2 SL</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <p>Lizbeth: </p>
+  <p>Victoria: </p>
 </div>
 
 <div id="Environmental Societies and Systems SL" class="tabcontent">
   <h3>Environmental Societies and Systems SL</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <p>Erica: </p>
+  <p>Victoria: </p>
+  <p>William: </p>
 </div>
 
 <div id="Biology SL" class="tabcontent">
   <h3>Biology SL</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <p>Lizbeth: </p>
+  <p>Zayra: </p>
+</div>
+
+<div id="Psychology SL" class="tabcontent">
+  <h3>Psychology SL</h3>
+  <p>Erica: </p>
+  <p>William: </p>
 </div>
 
 <div id="TOK & AP Govt" class="tabcontent">
   <h3>TOK & AP Govt</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <p>Erica: </p>
+  <p>Victoria: </p>
+  <p>William: </p>
 </div>
 
 <div id="Spanish SL & HL" class="tabcontent">
   <h3>Spanish SL & HL</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <p>Erica: </p>
+  <p>Victoria: </p>
+  <p>William: </p>
+</div>
+
+<div id="German SL & HL" class="tabcontent">
+  <h3>German SL & HL</h3>
+  <p>Camila: </p>
+  <p>Karen: </p>
+  <p>Yaneth: </p>
 </div>
 
 <script>
