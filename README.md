@@ -104,7 +104,7 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a class="active" href="#blog">Blog</a>
+  <a href="#blog">Blog</a>
 </div>
 
  <div class="rightcolumn">
