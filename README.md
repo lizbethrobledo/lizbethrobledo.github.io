@@ -120,11 +120,11 @@ body {
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
 
-<html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {font-family: Arial;}
+body {font-family: Times New Roman;}
 
 /* Style the tab */
 .tab {
@@ -167,7 +167,6 @@ body {font-family: Arial;}
 <body>
 
 <h2>Tabs</h2>
-<p>Click on the buttons inside the tabbed menu:</p>
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Language and Literature HL')">Language and Literature HL</button>
@@ -215,6 +214,24 @@ body {font-family: Arial;}
   <h3>Spanish SL & HL</h3>
   <p>Tokyo is the capital of Japan.</p>
 </div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+   
+</body>
 
  <div class="rightcolumn">
     <div class="card">
