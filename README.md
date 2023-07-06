@@ -133,7 +133,7 @@ body {font-family: Times New Roman;}
 
 /* Style the buttons inside the tab */
 .tab button {
-  background-color: #F4EDED;
+  background-color: #f1f1f1;
   float: left;
   border: none;
   outline: none;
@@ -145,12 +145,12 @@ body {font-family: Times New Roman;}
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #ddd;
+  background-color: #ccc;
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #ccc;
+  background-color: gray;
 }
 
 /* Style the tab content */
