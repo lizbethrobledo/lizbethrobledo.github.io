@@ -119,7 +119,6 @@ body {
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
 
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -134,7 +133,7 @@ body {font-family: Times New Roman;}
 
 /* Style the buttons inside the tab */
 .tab button {
-  background-color: inherit;
+  background-color: #F4EDED;
   float: left;
   border: none;
   outline: none;
@@ -164,8 +163,6 @@ body {font-family: Times New Roman;}
 </style>
 </head>
 <body>
-
-<h2>Tabs</h2>
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Language and Literature HL')">Language and Literature HL</button>
