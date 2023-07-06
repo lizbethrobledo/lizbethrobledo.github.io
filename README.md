@@ -147,7 +147,7 @@ body {font-family: Times New Roman;}
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #ccc;
+  background-color: gray;
 }
 
 /* Create an active/current tablink class */
