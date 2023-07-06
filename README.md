@@ -119,8 +119,8 @@ body {
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
 
-
-
+<div class="footer">
+  
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -252,8 +252,8 @@ function openCity(evt, cityName) {
   document.getElementById(cityName).style.display = "block";
   evt.currentTarget.className += " active";
 }
-</script>
-   
+</script>  
+</div>
 </body>
 
  <div class="rightcolumn">
