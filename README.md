@@ -90,8 +90,8 @@ body {
 }
 
 .topnav a:hover {
-  background-color: Gray;
-  color: white;
+  background-color: #ccc;
+  color: black;
 }
 
 .topnav a.active {
@@ -125,139 +125,80 @@ body {
       <h2>Classes</h2>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
       </div>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {font-family: Times New Roman;}
 
-/* Style the tab */
-.tab {
-  overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
-}
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>Language and Literature HL</h2>
+      <h5>Brought you by Erica, Victoria, and William, June 23, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Erica: </p>
+      <p>Victoria: 1. Do NOT wait for the last minute to do Mrs. Seward’s assignments. Do an even amount of work each day leading up to its due date. You don’t want to be up late on Sunday night starting an 800 word essay! 2. Definitely go to the Writing Center for an extra 10 points on your assignment. The tutors will also give great tips on how to improve your writing. 3. Pay attention to using correct syntax and sentence structure in your writing. </p>
+      <p>William: </p>
+    </div>
+    <div class="card">
+      <h2>Environmental Science and Societies SL</h2>
+      <h5>Brought you by Erica, Victoria, and William, June 30, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Erica: </p>
+      <p>Victoria: </p>
+      <p>William: </p>
+    </div>
+    <div class="card">
+      <h2>Psychology SL</h2>
+      <h5>Brought you by Erica and William, July 7, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Erica: </p>
+      <p>William: </p>
+    </div>
+    <div class="card">
+      <h2>History of the Americas HL</h2>
+      <h5>Brought you by Erica, Victoria, and William, July 14, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Erica: </p>
+      <p>Victoria: </p>
+      <p>William: </p>
+    </div>
+      <div class="card">
+      <h2>Biology SL</h2>
+      <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Lizbeth: </p>
+      <p>Zayra: </p>
+    </div>
+      <div class="card">
+      <h2>Math Y2 SL</h2>
+      <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Lizbeth: </p>
+      <p>Victoria: </p>
+    </div>
+    <div class="card">
+      <h2>Theory of Knowledge & AP Gov</h2>
+      <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Erica: </p>
+      <p>Victoria: </p>
+      <p>William: </p>
+    </div>
+    <div class="card">
+      <h2>Spanish HL & SL</h2>
+      <h5>Brought you by Erica, Victoria, and William, July 28, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Erica: </p>
+      <p>Victoria: </p>
+      <p>William: </p>
+    </div>
+    <div class="card">
+      <h2>German HL & SL</h2>
+      <h5>Brought you by our *Special Guests* Camila, Karen, and Yaneth, August 4, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Camila: </p>
+      <p>Karen: </p>
+      <p>Yaneth: </p>
+    </div>
+  </div>
 
-/* Style the buttons inside the tab */
-.tab button {
-  background-color: #f1f1f1;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  transition: 0.3s;
-  font-size: 17px;
-}
-
-/* Change background color of buttons on hover */
-.tab button:hover {
-  background-color: gray;
-}
-
-/* Create an active/current tablink class */
-.tab button.active {
-  background-color: gray;
-}
-
-/* Style the tab content */
-.tabcontent {
-  display: #F1F5F7;
-  padding: 6px 12px;
-  border: 1px solid gray;
-  border-top: none;
-}
-</style>
-</head>
-<body>
-
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Language and Literature HL')">Language and Literature HL</button>
-  <button class="tablinks" onclick="openCity(event, 'History of the Americas HL')">History of the Americas HL</button>
-  <button class="tablinks" onclick="openCity(event, 'Math Y2 SL')">Math Y2 SL</button>
-  <button class="tablinks" onclick="openCity(event, 'Environmental Societies and Systems SL')">Environmental Societies and Systems SL</button>
-  <button class="tablinks" onclick="openCity(event, 'Biology SL')">Biology SL</button>
-  <button class="tablinks" onclick="openCity(event, 'Psychology SL')">Psychology SL</button>
-  <button class="tablinks" onclick="openCity(event, 'TOK & AP Govt')">TOK & AP Govt</button>
-  <button class="tablinks" onclick="openCity(event, 'Spanish SL & HL')">Spanish</button>
-  <button class="tablinks" onclick="openCity(event, 'German SL & HL')">Spanish</button>
-</div>
-
-<div id="Language and Literature HL" class="tabcontent">
-  <h3>Language and Literature HL</h3>
-  <p>Erica: </p>
-  <p>Victoria: </p>
-  <p>William: </p>
-</div>
-
-<div id="History of the Americas HL" class="tabcontent">
-  <h3>History of the Americas HL</h3>
-  <p>Erica: </p>
-  <p>Victoria: </p>
-  <p>William: </p>
-</div>
-
-<div id="Math Y2 SL" class="tabcontent">
-  <h3>Math Y2 SL</h3>
-  <p>Lizbeth: </p>
-  <p>Victoria: </p>
-</div>
-
-<div id="Environmental Societies and Systems SL" class="tabcontent">
-  <h3>Environmental Societies and Systems SL</h3>
-  <p>Erica: </p>
-  <p>Victoria: </p>
-  <p>William: </p>
-</div>
-
-<div id="Biology SL" class="tabcontent">
-  <h3>Biology SL</h3>
-  <p>Lizbeth: </p>
-  <p>Zayra: </p>
-</div>
-
-<div id="Psychology SL" class="tabcontent">
-  <h3>Psychology SL</h3>
-  <p>Erica: </p>
-  <p>William: </p>
-</div>
-
-<div id="TOK & AP Govt" class="tabcontent">
-  <h3>TOK & AP Govt</h3>
-  <p>Erica: </p>
-  <p>Victoria: </p>
-  <p>William: </p>
-</div>
-
-<div id="Spanish SL & HL" class="tabcontent">
-  <h3>Spanish SL & HL</h3>
-  <p>Erica: </p>
-  <p>Victoria: </p>
-  <p>William: </p>
-</div>
-
-<div id="German SL & HL" class="tabcontent">
-  <h3>German SL & HL</h3>
-  <p>Camila: </p>
-  <p>Karen: </p>
-  <p>Yaneth: </p>
-</div>
-
-<script>
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-</script>  
-</body>
 
  <div class="rightcolumn">
     <div class="card">
