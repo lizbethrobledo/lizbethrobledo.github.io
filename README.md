@@ -90,8 +90,8 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: Gray;
+  color: white;
 }
 
 .topnav a.active {
@@ -161,7 +161,7 @@ body {font-family: Times New Roman;}
 
 /* Style the tab content */
 .tabcontent {
-  display: none;
+  display: #F1F5F7;
   padding: 6px 12px;
   border: 1px solid gray;
   border-top: none;
