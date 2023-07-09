@@ -138,6 +138,9 @@ body {
             <p>2. Definitely go to the Writing Center for an extra 10 points on your assignment. The tutors will also give great tips on how to improve your writing. </p>
             <p>3. Pay attention to using correct syntax and sentence structure in your writing. </p>
       <p>William: </p>
+            <p>1. Use the tool of the writing center. It is free extra points and it actually helps make your writing skills and individual essays sound better.</p>
+            <p>2. Procrastination never hurt me. 😂</p>
+            <p>3. Talk to Ms. Seward about any concerns you have whether about a subject matter, the book, grammar, or etc. She is incredibly nice and understanding except for late work.</p>
     </div>
     <div class="card">
       <h2>Environmental Science and Societies SL</h2>
