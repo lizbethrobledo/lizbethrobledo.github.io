@@ -1,4 +1,3 @@
-# lizbethrobledo.github.io
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -109,22 +108,18 @@ body {
  <div class="rightcolumn">
     <div class="card">
       <h2>Our CAS Project</h2>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+      <p>Our goal from the beginning was to create a website that would be helpful for incoming juniors. We know this is a big change of work load and setting, but we, as DP canidates, wanted you all to know it is possible to make through IB.</p>
     </div>
 
  <div class="rightcolumn">
     <div class="card">
       <h2>About Us</h2>
       <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+      <p>Erica: </p>
+      <p>Lizbeth: I am apart of Ladies of Power, NHS, UIL </p>
+      <p>Victoria: </p>
+      <p>William: </p>
     </div>
-
-
- <div class="rightcolumn">
-    <div class="card">
-      <h2>Classes</h2>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-      </div>
 
 <div class="row">
   <div class="leftcolumn">
