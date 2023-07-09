@@ -133,7 +133,10 @@ body {
       <h5>Brought you by Erica, Victoria, and William, June 23, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <p>Erica: </p>
-      <p>Victoria: 1. Do NOT wait for the last minute to do Mrs. Seward’s assignments. Do an even amount of work each day leading up to its due date. You don’t want to be up late on Sunday night starting an 800 word essay! 2. Definitely go to the Writing Center for an extra 10 points on your assignment. The tutors will also give great tips on how to improve your writing. 3. Pay attention to using correct syntax and sentence structure in your writing. </p>
+      <p>Victoria: </p>
+            <p>1. Do NOT wait for the last minute to do Mrs. Seward’s assignments. Do an even amount of work each day leading up to its due date. You don’t want to be up late on Sunday night starting an 800 word essay! </p>
+            <p>2. Definitely go to the Writing Center for an extra 10 points on your assignment. The tutors will also give great tips on how to improve your writing. </p>
+            <p>3. Pay attention to using correct syntax and sentence structure in your writing. </p>
       <p>William: </p>
     </div>
     <div class="card">
