@@ -115,10 +115,10 @@ body {
     <div class="card">
       <h2>About Us</h2>
       <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Erica: </p>
-      <p>Lizbeth: I am apart of Ladies of Power, NHS, UIL </p>
-      <p>Victoria: </p>
-      <p>William: </p>
+      <p>Erica: Apart of Ladies of Power</p>
+      <p>Lizbeth: Apart of Ladies of Power, NHS, UIL Math</p>
+      <p>Victoria: Apart of Redcoats, Writing Center, Eco Club</p>
+      <p>William: Writing Center, Eco Club, Tennis</p>
     </div>
 
 <div class="row">
@@ -128,6 +128,10 @@ body {
       <h5>Brought you by Erica, Victoria, and William, June 23, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <p>Erica: </p>
+            <p>1. Lovely teacher and is very understanding. Make sure you keep in contact with them though because it makes them have a better understanding of when you really need help or can’t complete an assignment in time.</p>
+            <p>2. Grades aren’t everything in her class and she does her best to give lots of mini assignments to get you lots of easy grades.</p>
+            <p>3. Doesn’t allow phones in class, and you can only do work or read once done with class work.</p>
+            <p>4. You will most likely be busy the entire class and won't have much free time. Writing and reading is very prominent in this class so don’t be surprised.</p>
       <p>Victoria: </p>
             <p>1. Do NOT wait for the last minute to do Mrs. Seward’s assignments. Do an even amount of work each day leading up to its due date. You don’t want to be up late on Sunday night starting an 800 word essay! </p>
             <p>2. Definitely go to the Writing Center for an extra 10 points on your assignment. The tutors will also give great tips on how to improve your writing. </p>
@@ -159,6 +163,9 @@ body {
       <p>Erica: </p>
       <p>Victoria: </p>
       <p>William: </p>
+            <p>1. Always evaluate sources even if it seems credible do it for the extra points.</p>
+            <p>2. The more you write the better it makes you feel.</p>
+            <p>3. Take the study guides in chunks or you will cry.</p>
     </div>
       <div class="card">
       <h2>Biology SL</h2>
@@ -169,10 +176,12 @@ body {
     </div>
       <div class="card">
       <h2>Math Y2 SL</h2>
-      <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
+      <h5>Brought you by Lizbeth & Victoria, July 21, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <p>Lizbeth: </p>
       <p>Victoria: </p>
+            <p>1. WRITE DOWN CALCULATOR STEPS WHEN GIVEN.</p>
+            <p>2. Mr. Batrez would rather see you work and get the answer wrong than have a right answer with no work at all. He needs to see what you did wrong so he can help you.</p>
     </div>
     <div class="card">
       <h2>Theory of Knowledge & AP Gov</h2>
@@ -187,7 +196,10 @@ body {
       <h5>Brought you by Erica, Victoria, and William, July 28, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <p>Erica: </p>
-      <p>Victoria: </p>
+      <p>Victoria: *SL* </p>
+            <p>1. Using word reference will help you learn more than using google translate.</p>
+            <p>2. There may be times when you have no idea what is being read. Never be afraid to ask Ms.Morales to help you understand. There is a great chance that others are just as lost as you are.</p>
+            <p>3. Practice speaking Spanish not only in class assignments but also with Ms. Morales and even your friends that know Spanish. Practicing will help you improve your pronunciation and prepare you for the speaking assessment.</p>
       <p>William: </p>
     </div>
     <div class="card">
