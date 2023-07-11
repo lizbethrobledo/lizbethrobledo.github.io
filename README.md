@@ -132,11 +132,11 @@ body {
             <p>2. Grades aren’t everything in her class and she does her best to give lots of mini assignments to get you lots of easy grades.</p>
             <p>3. Doesn’t allow phones in class, and you can only do work or read once done with class work.</p>
             <p>4. You will most likely be busy the entire class and won't have much free time. Writing and reading is very prominent in this class so don’t be surprised.</p>
-      <p>Victoria: </p>
+      <h4>Victoria: </h4>
             <p>1. Do NOT wait for the last minute to do Mrs. Seward’s assignments. Do an even amount of work each day leading up to its due date. You don’t want to be up late on Sunday night starting an 800 word essay! </p>
             <p>2. Definitely go to the Writing Center for an extra 10 points on your assignment. The tutors will also give great tips on how to improve your writing. </p>
             <p>3. Pay attention to using correct syntax and sentence structure in your writing. </p>
-      <p>William: </p>
+      <h4>William: </h4>
             <p>1. Use the tool of the writing center. It is free extra points and it actually helps make your writing skills and individual essays sound better.</p>
             <p>2. Procrastination never hurt me. 😂</p>
             <p>3. Talk to Ms. Seward about any concerns you have whether about a subject matter, the book, grammar, or etc. She is incredibly nice and understanding except for late work.</p>
@@ -145,41 +145,41 @@ body {
       <h2>Environmental Science and Societies SL</h2>
       <h5>Brought you by Erica, Victoria, and William, June 30, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Erica: </p>
-      <p>Victoria: </p>
-      <p>William: </p>
+      <h4>Erica: </h4>
+      <h4>Victoria: </h4>
+      <h4>William: </h4>
     </div>
     <div class="card">
       <h2>Psychology SL</h2>
       <h5>Brought you by Erica and William, July 7, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Erica: </p>
-      <p>William: </p>
+      <h4>Erica: </h4>
+      <h4>William: </h4>
     </div>
     <div class="card">
       <h2>History of the Americas HL</h2>
       <h5>Brought you by Erica, Victoria, and William, July 14, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Erica: </p>
-      <p>Victoria: </p>
-      <p>William: </p>
+      <h4>Erica: </h4>
+      <h4>Victoria: </h4>
+      <h4>William: </h4>
             <p>1. Always evaluate sources even if it seems credible do it for the extra points.</p>
             <p>2. The more you write the better it makes you feel.</p>
             <p>3. Take the study guides in chunks or you will cry.</p>
     </div>
       <div class="card">
       <h2>Biology SL</h2>
-      <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
+      <h5>Brought you by Lizbeth & Zayra, July 21, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Lizbeth: </p>
-      <p>Zayra: </p>
+      <h4>Lizbeth: </h4>
+      <h4>Zayra: </h4>
     </div>
       <div class="card">
       <h2>Math Y2 SL</h2>
       <h5>Brought you by Lizbeth & Victoria, July 21, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Lizbeth: </p>
-      <p>Victoria: </p>
+      <h4>Lizbeth: </h4>
+      <h4>Victoria: </h4>
             <p>1. WRITE DOWN CALCULATOR STEPS WHEN GIVEN.</p>
             <p>2. Mr. Batrez would rather see you work and get the answer wrong than have a right answer with no work at all. He needs to see what you did wrong so he can help you.</p>
     </div>
@@ -187,28 +187,28 @@ body {
       <h2>Theory of Knowledge & AP Gov</h2>
       <h5>Brought you by Erica, Victoria, and William, July 21, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Erica: </p>
-      <p>Victoria: </p>
-      <p>William: </p>
+      <h4>Erica: </h4>
+      <h4>Victoria: </h4>
+      <h4>William: </h4>
     </div>
     <div class="card">
       <h2>Spanish HL & SL</h2>
       <h5>Brought you by Erica, Victoria, and William, July 28, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Erica: </p>
-      <p>Victoria: *SL* </p>
+      <h4>Erica: </h4>
+      <h4>Victoria: *SL* </h4>
             <p>1. Using word reference will help you learn more than using google translate.</p>
             <p>2. There may be times when you have no idea what is being read. Never be afraid to ask Ms.Morales to help you understand. There is a great chance that others are just as lost as you are.</p>
             <p>3. Practice speaking Spanish not only in class assignments but also with Ms. Morales and even your friends that know Spanish. Practicing will help you improve your pronunciation and prepare you for the speaking assessment.</p>
-      <p>William: </p>
+      <h4>William: </h4>
     </div>
     <div class="card">
       <h2>German HL & SL</h2>
       <h5>Brought you by our *Special Guests* Camila, Karen, and Yaneth, August 4, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Camila: </p>
-      <p>Karen: </p>
-      <p>Yaneth: </p>
+      <h4>Camila: </h4>
+      <h4>Karen: </h4>
+      <h4>Yaneth: </h4>
     </div>
   </div>
 
@@ -224,7 +224,7 @@ body {
     </div>
  
 <div class="footer">
-  <h2>Don't stress too much. You got this, we believe in you!</h2>
+  <h3>Don't stress too much. You got this, we believe in you!</h3>
 </div>
 
 
