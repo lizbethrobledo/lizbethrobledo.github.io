@@ -105,7 +105,7 @@ body {
   <a class="active" href="#home">Home</a>
 </div>
 
- <div class="rightcolumn">
+ <div class="leftcolumn">
     <div class="card">
       <h2>Our CAS Project</h2>
       <p>Our goal from the beginning was to create a website that would be helpful for incoming juniors. We know this is a big change of work load and setting, but we, as DP canidates, wanted you all to know it is possible to make it through IB.</p>
