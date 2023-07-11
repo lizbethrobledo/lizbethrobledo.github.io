@@ -127,8 +127,8 @@ body {
       <h2>Language and Literature HL</h2>
       <h5>Brought you by Erica, Victoria, and William, June 23, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Erica: </p>
-            <h1>1. Lovely teacher and is very understanding. Make sure you keep in contact with them though because it makes them have a better understanding of when you really need help or can’t complete an assignment in time.</h1>
+      <h4>Erica: </h4>
+            <p>1. Lovely teacher and is very understanding. Make sure you keep in contact with them though because it makes them have a better understanding of when you really need help or can’t complete an assignment in time.</p>
             <p>2. Grades aren’t everything in her class and she does her best to give lots of mini assignments to get you lots of easy grades.</p>
             <p>3. Doesn’t allow phones in class, and you can only do work or read once done with class work.</p>
             <p>4. You will most likely be busy the entire class and won't have much free time. Writing and reading is very prominent in this class so don’t be surprised.</p>
