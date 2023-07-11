@@ -118,7 +118,7 @@ body {
       <p>Erica: Apart of Ladies of Power</p>
       <p>Lizbeth: Apart of Ladies of Power, NHS, UIL Math</p>
       <p>Victoria: Apart of Redcoats, Writing Center, Eco Club</p>
-      <p>William: Writing Center, Eco Club, Tennis</p>
+      <p>William: Apart of Writing Center, Eco Club, Tennis</p>
     </div>
 
 <div class="row">
