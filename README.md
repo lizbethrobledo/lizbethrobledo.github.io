@@ -147,6 +147,8 @@ body {
       <div class="fakeimg" style="height:200px;">Image</div>
       <h4>Erica: </h4>
             <p>1. Strict but if the majority of the class all agrees on some minor changes, she will take into account the feedback and see what she can do. </p>
+            <p>2. It’s a hard class because of the workload but the subject itself isn’t the hardest in my opinion. Make sure you turn in your work on time.</p>
+            <p>3. Phones aren’t allowed most of the time and if you think it's a good time to have your phone out ask her beforehand. </p>
       <h4>Victoria: </h4>
       <h4>William: </h4>
     </div>
@@ -155,6 +157,9 @@ body {
       <h5>Brought you by Erica and William, July 7, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <h4>Erica: </h4>
+            <p>1. Great teacher but everyone learns best in different ways so his style of teaching may not be for everyone.</p>
+            <p>2. Teaching style is note taking from PowerPoints and reading the textbook (Kognity).</p>
+            <p>3. Allows phones in class and doesn't say much unless you are getting distracted by them. Try to not use them while he’s teaching since it’s disrespectful anyway.</p>
       <h4>William: </h4>
     </div>
     <div class="card">
@@ -162,6 +167,8 @@ body {
       <h5>Brought you by Erica, Victoria, and William, July 14, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <h4>Erica: </h4>
+            <p>1. Very difficult course if you don’t keep up with the workload. You need to make sure that you are completing the work on time and not getting.</p>
+            <p>2. The teaching style seems very college lecture heavy and you will have long assignments that will take a long time to complete. DO NOT PROCRASTINATE IN THIS CLASS IT WILL KILL YOU IF YOU DO!!</p>
       <h4>Victoria: </h4>
       <h4>William: </h4>
             <p>1. Always evaluate sources even if it seems credible do it for the extra points.</p>
@@ -196,12 +203,13 @@ body {
       <h2>Spanish HL & SL</h2>
       <h5>Brought you by Erica, Victoria, and William, July 28, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <h4>Erica: </h4>
+      <h4>Erica: *HL* </h4>
+            <p>1. Ms. Tonche is great and you will have an assignment every class in the morning. You will read in class outloud. Instructions are only in Spanish and you need to have a basic understanding of being able to talk, read, and write.</p>
       <h4>Victoria: *SL* </h4>
             <p>1. Using word reference will help you learn more than using google translate.</p>
             <p>2. There may be times when you have no idea what is being read. Never be afraid to ask Ms.Morales to help you understand. There is a great chance that others are just as lost as you are.</p>
             <p>3. Practice speaking Spanish not only in class assignments but also with Ms. Morales and even your friends that know Spanish. Practicing will help you improve your pronunciation and prepare you for the speaking assessment.</p>
-      <h4>William: </h4>
+      <h4>William: *HL* </h4>
     </div>
     <div class="card">
       <h2>German HL & SL</h2>
