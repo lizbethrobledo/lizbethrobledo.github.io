@@ -115,7 +115,7 @@ body {
     <div class="card">
       <h2>About Us</h2>
       <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Erica: Apart of Ladies of Power</p>
+      <h4>Erica: </h4> <p>Apart of Ladies of Power</p>
       <p>Lizbeth: Apart of Ladies of Power, NHS, UIL Math</p>
       <p>Victoria: Apart of Redcoats, Writing Center, Eco Club</p>
       <p>William: Apart of Writing Center, Eco Club, Tennis</p>
@@ -146,6 +146,7 @@ body {
       <h5>Brought you by Erica, Victoria, and William, June 30, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <h4>Erica: </h4>
+            <p>1. Strict but if the majority of the class all agrees on some minor changes, she will take into account the feedback and see what she can do. </p>
       <h4>Victoria: </h4>
       <h4>William: </h4>
     </div>
