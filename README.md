@@ -115,6 +115,7 @@ body {
     <div class="card">
       <h2>About Us</h2>
       <div class="fakeimg" style="height:100px;">Image</div>
+      <p></p>
       <p>Erica: Apart of Ladies of Power</p>
       <p>Lizbeth: Apart of Ladies of Power, NHS, UIL Math</p>
       <p>Victoria: Apart of Redcoats, Writing Center, Eco Club</p>
