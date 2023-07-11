@@ -128,6 +128,7 @@ body {
       <h2>Language and Literature HL</h2>
       <h5>Brought you by Erica, Victoria, & William, June 23, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
+      <p></p>
       <h4>Erica: </h4>
             <p>1. Lovely teacher and is very understanding. Make sure you keep in contact with them though because it makes them have a better understanding of when you really need help or can’t complete an assignment in time.</p>
             <p>2. Grades aren’t everything in her class and she does her best to give lots of mini assignments to get you lots of easy grades.</p>
@@ -146,6 +147,7 @@ body {
       <h2>Environmental Science and Societies SL</h2>
       <h5>Brought you by Erica, Victoria, & William, June 30, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
+      <p></p>
       <h4>Erica: </h4>
             <p>1. Strict but if the majority of the class all agrees on some minor changes, she will take into account the feedback and see what she can do. </p>
             <p>2. It’s a hard class because of the workload but the subject itself isn’t the hardest in my opinion. Make sure you turn in your work on time.</p>
@@ -157,6 +159,7 @@ body {
       <h2>Psychology SL</h2>
       <h5>Brought you by Erica & William, July 7, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
+      <p></p>
       <h4>Erica: </h4>
             <p>1. Great teacher but everyone learns best in different ways so his style of teaching may not be for everyone.</p>
             <p>2. Teaching style is note taking from PowerPoints and reading the textbook (Kognity).</p>
@@ -167,6 +170,7 @@ body {
       <h2>History of the Americas HL</h2>
       <h5>Brought you by Erica, Victoria, & William, July 14, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
+      <p></p>
       <h4>Erica: </h4>
             <p>1. Very difficult course if you don’t keep up with the workload. You need to make sure that you are completing the work on time and not getting.</p>
             <p>2. The teaching style seems very college lecture heavy and you will have long assignments that will take a long time to complete. DO NOT PROCRASTINATE IN THIS CLASS IT WILL KILL YOU IF YOU DO!!</p>
@@ -176,17 +180,19 @@ body {
             <p>2. The more you write the better it makes you feel.</p>
             <p>3. Take the study guides in chunks or you will cry.</p>
     </div>
-      <div class="card">
+    <div class="card">
       <h2>Biology SL</h2>
       <h5>Brought you by Lizbeth & Zayra, July 21, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
+      <p></p>
       <h4>Lizbeth: </h4>
       <h4>Zayra: </h4>
     </div>
-      <div class="card">
+    <div class="card">
       <h2>Math Y2 SL</h2>
       <h5>Brought you by Lizbeth & Victoria, July 21, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
+      <p></p>
       <h4>Lizbeth: </h4>
       <h4>Victoria: </h4>
             <p>1. WRITE DOWN CALCULATOR STEPS WHEN GIVEN.</p>
@@ -204,6 +210,7 @@ body {
       <h2>Spanish HL & SL</h2>
       <h5>Brought you by Erica, Victoria, & William, July 28, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
+      <p></p>
       <h4>Erica: *HL* </h4>
             <p>1. Ms. Tonche is great and you will have an assignment every class in the morning. You will read in class outloud. Instructions are only in Spanish and you need to have a basic understanding of being able to talk, read, and write.</p>
       <h4>Victoria: *SL* </h4>
@@ -216,6 +223,7 @@ body {
       <h2>German HL & SL</h2>
       <h5>Brought you by our *Special Guests* Camila, Karen, & Yaneth, August 4, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
+      <p></p>      
       <h4>Camila: </h4>
       <h4>Karen: </h4>
       <h4>Yaneth: </h4>
