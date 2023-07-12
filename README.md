@@ -186,6 +186,9 @@ body {
       <div class="fakeimg" style="height:200px;">Image</div>
       <p></p>
       <h4>Lizbeth: </h4>
+            <p>1. Although the textbook chapters are long, they will help have a stronger foundation for the class. Taking notes from the beginning will help when reviewing at the end of the year.</p>
+            <p>2. Bioninja was a lifesaver when wanting a quick overview of a lesson. Bioninja is also straightforward, but it doesn't contain all the small details that do matter. I also watched YouTube videos when the textbook wouldn't grasp my attention (Cheryl Hickman had great videos but they were over 20 minutes).</p>
+            <p>3. It is A LOT of content and you won't be able to know everything. That is okay, being strong in some topics more than others will still benefit !!</p>
       <h4>Zayra: </h4>
     </div>
     <div class="card">
