@@ -170,7 +170,13 @@ body {
             <p>2. It’s a hard class because of the workload but the subject itself isn’t the hardest in my opinion. Make sure you turn in your work on time.</p>
             <p>3. Phones aren’t allowed most of the time and if you think it's a good time to have your phone out ask her beforehand. </p>
       <h4>Victoria: </h4>
+            <p>1. Use the time Mrs. Castillo gives to study for tests to actually study for the test; pick good study buddies!</p>
+            <p>2. For your IA, you will make your life easier if you conduct your own experiment than making a survey.</p>
+            <p>3. It's easier and quicker to find information in the physical ESS textbook than on Kognity, so use the physical textbook to fill out note sheets.</p>
       <h4>William: </h4>
+            <p>1. </p>
+            <p>2. </p>
+            <p>3. </p>
     </div>
     <div class="card">
       <h2>Psychology SL</h2>
@@ -186,7 +192,7 @@ body {
     <div class="card">
       <h2>Biology SL</h2>
       <h5>Brought you by Lizbeth & Zayra, July 21, 2023</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
+      <div class="biology notes.jpg" style="height:200px;">Image</div>
       <img src="/path/to/biology notes.jpg">
       <h4>Lizbeth: </h4>
             <p>1. Although the textbook chapters are long, they will help have a stronger foundation for the class. Taking notes from the beginning will help when reviewing at the end of the year.</p>
