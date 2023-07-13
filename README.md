@@ -144,6 +144,23 @@ body {
             <p>3. Talk to Ms. Seward about any concerns you have whether about a subject matter, the book, grammar, or etc. She is incredibly nice and understanding except for late work.</p>
     </div>
     <div class="card">
+      <h2>History of the Americas HL</h2>
+      <h5>Brought you by Erica, Victoria, & William, July 14, 2023</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p></p>
+      <h4>Erica: </h4>
+            <p>1. Very difficult course if you don’t keep up with the workload. You need to make sure that you are completing the work on time and not getting.</p>
+            <p>2. The teaching style seems very college lecture heavy and you will have long assignments that will take a long time to complete. DO NOT PROCRASTINATE IN THIS CLASS IT WILL KILL YOU IF YOU DO!!</p>
+      <h4>Victoria: </h4>
+            <p>1. Get straight to the point in OPCVLs.</p>
+            <p>2. Mr. McCafferty will ask for analysis in all of your writing. Have more analysis on historical events than just simply describing what happened.</p>
+            <p>3. Participate in discussions even if you aren’t sure your answer to the question is right. Not trying at all will result in getting a 0.</p>
+      <h4>William: </h4>
+            <p>1. Always evaluate sources even if it seems credible do it for the extra points.</p>
+            <p>2. The more you write the better it makes you feel.</p>
+            <p>3. Take the study guides in chunks or you will cry.</p>
+    </div>
+    <div class="card">
       <h2>Environmental Science and Societies SL</h2>
       <h5>Brought you by Erica, Victoria, & William, June 30, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
@@ -165,23 +182,6 @@ body {
             <p>2. Teaching style is note taking from PowerPoints and reading the textbook (Kognity).</p>
             <p>3. Allows phones in class and doesn't say much unless you are getting distracted by them. Try to not use them while he’s teaching since it’s disrespectful anyway.</p>
       <h4>William: </h4>
-    </div>
-    <div class="card">
-      <h2>History of the Americas HL</h2>
-      <h5>Brought you by Erica, Victoria, & William, July 14, 2023</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p></p>
-      <h4>Erica: </h4>
-            <p>1. Very difficult course if you don’t keep up with the workload. You need to make sure that you are completing the work on time and not getting.</p>
-            <p>2. The teaching style seems very college lecture heavy and you will have long assignments that will take a long time to complete. DO NOT PROCRASTINATE IN THIS CLASS IT WILL KILL YOU IF YOU DO!!</p>
-      <h4>Victoria: </h4>
-            <p>1. Get straight to the point in OPCVLs.</p>
-            <p>2. Mr. McCafferty will ask for analysis in all of your writing. Have more analysis on historical events than just simply describing what happened.</p>
-            <p>3. Participate in discussions even if you aren’t sure your answer to the question is right. Not trying at all will result in getting a 0.</p>
-      <h4>William: </h4>
-            <p>1. Always evaluate sources even if it seems credible do it for the extra points.</p>
-            <p>2. The more you write the better it makes you feel.</p>
-            <p>3. Take the study guides in chunks or you will cry.</p>
     </div>
     <div class="card">
       <h2>Biology SL</h2>
