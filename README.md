@@ -117,7 +117,7 @@ body {
       <div class="fakeimg" style="height:100px;">Image</div>
       <p></p>
       <p>Erica: Apart of Ladies of Power</p>
-      <p>Lizbeth: Apart of Ladies of Power, NHS, UIL Math</p>
+      <p>Lizbeth: Apart of Ladies of Power, NHS, EMERGE</p>
       <p>Victoria: Apart of Redcoats, Writing Center, Eco Club</p>
       <p>William: Apart of Writing Center, Eco Club, Tennis</p>
     </div>
@@ -235,9 +235,9 @@ body {
       <h5>Brought you by our *Special Guests* Camila, Karen, & Yaneth, August 4, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <p></p>      
-      <h4>Camila: </h4>
-      <h4>Karen: </h4>
-      <h4>Yaneth: </h4>
+      <h4>Camila: *HL* </h4>
+      <h4>Karen: *SL* </h4>
+      <h4>Yaneth: *HL* </h4>
     </div>
   </div>
 
