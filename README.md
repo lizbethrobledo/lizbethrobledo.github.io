@@ -193,6 +193,9 @@ body {
             <p>2. Bioninja was a lifesaver when wanting a quick overview of a lesson. Bioninja is also straightforward, but it doesn't contain all the small details that do matter. I also watched YouTube videos when the textbook wouldn't grasp my attention (Cheryl Hickman had great videos but they were over 20 minutes).</p>
             <p>3. It is A LOT of content and you won't be able to know everything. That is okay, being strong in some topics more than others will still benefit !!</p>
       <h4>Zayra: </h4>
+            <p>1. Read over content before you learn it in class. It's very useful to have some background info on what you're learning so that way you're not completely lost during class.</p>
+            <p>2. Study based on your learning style. It's very important for you to be aware of how you learn best. Try different things like repetition, color coding, or creating fun acronyms to help remember content.</p>
+            <p>3. Make sure to keep an organized binder/notebook. It makes it easier to find information to review for tests (especially the IB test).</p>
     </div>
     <div class="card">
       <h2>Math Y2 SL</h2>
