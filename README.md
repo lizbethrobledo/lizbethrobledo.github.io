@@ -187,7 +187,7 @@ body {
       <h2>Biology SL</h2>
       <h5>Brought you by Lizbeth & Zayra, July 21, 2023</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      ![biology notes](https://github.com/lizbethrobledo/lizbethrobledo.github.io/assets/130178090/4f7b7d49-2d5f-4a70-96a1-5579222d8c45)
+      <img src="/path/to/biology notes.jpg"
       <h4>Lizbeth: </h4>
             <p>1. Although the textbook chapters are long, they will help have a stronger foundation for the class. Taking notes from the beginning will help when reviewing at the end of the year.</p>
             <p>2. Bioninja was a lifesaver when wanting a quick overview of a lesson. Bioninja is also straightforward, but it doesn't contain all the small details that do matter. I also watched YouTube videos when the textbook wouldn't grasp my attention (Cheryl Hickman had great videos but they were over 20 minutes).</p>
