@@ -175,6 +175,9 @@ body {
             <p>1. Very difficult course if you don’t keep up with the workload. You need to make sure that you are completing the work on time and not getting.</p>
             <p>2. The teaching style seems very college lecture heavy and you will have long assignments that will take a long time to complete. DO NOT PROCRASTINATE IN THIS CLASS IT WILL KILL YOU IF YOU DO!!</p>
       <h4>Victoria: </h4>
+            <p>1. Get straight to the point in OPCVLs.</p>
+            <p>2. Mr. McCafferty will ask for analysis in all of your writing. Have more analysis on historical events than just simply describing what happened.</p>
+            <p>3. Participate in discussions even if you aren’t sure your answer to the question is right. Not trying at all will result in getting a 0.</p>
       <h4>William: </h4>
             <p>1. Always evaluate sources even if it seems credible do it for the extra points.</p>
             <p>2. The more you write the better it makes you feel.</p>
@@ -200,6 +203,8 @@ body {
       <h4>Victoria: </h4>
             <p>1. WRITE DOWN CALCULATOR STEPS WHEN GIVEN.</p>
             <p>2. Mr. Batrez would rather see you work and get the answer wrong than have a right answer with no work at all. He needs to see what you did wrong so he can help you.</p>
+            <p>3. Pre-cal will be helpful to you when you get to Math Y2 if you manage to remember what you learned in the class. I recommend having your Pre-cal notes with you as a refresher getting into Math Y2.</p>
+            <p>4. Be prepared to be called up to finish a problem on the whiteboard - everybody will go through it.</p>
     </div>
     <div class="card">
       <h2>Theory of Knowledge & AP Gov</h2>
