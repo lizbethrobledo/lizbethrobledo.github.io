@@ -114,7 +114,6 @@ body {
  <div class="rightcolumn">
     <div class="card">
       <h2>About Us</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
       <p></p>
       <p>Erica: Apart of Ladies of Power</p>
       <p>Lizbeth: Apart of Ladies of Power, NHS, EMERGE</p>
@@ -127,7 +126,6 @@ body {
     <div class="card">
       <h2>Language and Literature HL</h2>
       <h5>Brought you by Erica, Victoria, & William, June 23, 2023</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
       <p></p>
       <h4>Erica: </h4>
             <p>1. Lovely teacher and is very understanding. Make sure you keep in contact with them though because it makes them have a better understanding of when you really need help or can’t complete an assignment in time.</p>
@@ -146,7 +144,6 @@ body {
     <div class="card">
       <h2>History of the Americas HL</h2>
       <h5>Brought you by Erica, Victoria, & William, July 14, 2023</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
       <p></p>
       <h4>Erica: </h4>
             <p>1. Very difficult course if you don’t keep up with the workload. You need to make sure that you are completing the work on time and not getting.</p>
@@ -163,7 +160,6 @@ body {
     <div class="card">
       <h2>Environmental Science and Societies SL</h2>
       <h5>Brought you by Erica, Victoria, & William, June 30, 2023</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
       <p></p>
       <h4>Erica: </h4>
             <p>1. Strict but if the majority of the class all agrees on some minor changes, she will take into account the feedback and see what she can do. </p>
@@ -174,26 +170,27 @@ body {
             <p>2. For your IA, you will make your life easier if you conduct your own experiment than making a survey.</p>
             <p>3. It's easier and quicker to find information in the physical ESS textbook than on Kognity, so use the physical textbook to fill out note sheets.</p>
       <h4>William: </h4>
-            <p>1. </p>
-            <p>2. </p>
-            <p>3. </p>
+            <p>1. Try to be objective about the work as a subjective view may lead to a wrong interpretation of the directions in the class.</p>
+            <p>2. I think this goes for all classes but don’t play on your phone. She especially dislikes it.</p>
+            <p>3. Don’t play with lab equipment, which is pretty self explanatory, but definitely strongly recommended.</p>
     </div>
     <div class="card">
       <h2>Psychology SL</h2>
       <h5>Brought you by Erica & William, July 7, 2023</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
       <p></p>
       <h4>Erica: </h4>
             <p>1. Great teacher but everyone learns best in different ways so his style of teaching may not be for everyone.</p>
             <p>2. Teaching style is note taking from PowerPoints and reading the textbook (Kognity).</p>
             <p>3. Allows phones in class and doesn't say much unless you are getting distracted by them. Try to not use them while he’s teaching since it’s disrespectful anyway.</p>
       <h4>William: </h4>
+            <p>1. Always do the readings and fill out the information regarding the studies because as long and weird worded as they sometimes may seem, they will be very important for the exam and SAQ tests.</p>
+            <p>2. The worksheets may be long but they are very worth it when studying or when you need to find an SAQ study for another worksheet. Why do the work twice, don’t do more work later.</p>
+            <p>3. There are often helpful activities in this class so try to pay attention and use them as a tool to grasp concepts.</p>
     </div>
     <div class="card">
       <h2>Biology SL</h2>
       <h5>Brought you by Lizbeth & Zayra, July 21, 2023</h5>
-      <div class="biology notes.jpg" style="height:200px;">Image</div>
-      <img src="/path/to/biology notes.jpg">
+      <p></p>
       <h4>Lizbeth: </h4>
             <p>1. Although the textbook chapters are long, they will help have a stronger foundation for the class. Taking notes from the beginning will help when reviewing at the end of the year.</p>
             <p>2. Bioninja was a lifesaver when wanting a quick overview of a lesson. Bioninja is also straightforward, but it doesn't contain all the small details that do matter. I also watched YouTube videos when the textbook wouldn't grasp my attention (Cheryl Hickman had great videos but they were over 20 minutes).</p>
@@ -206,9 +203,11 @@ body {
     <div class="card">
       <h2>Math Y2 SL</h2>
       <h5>Brought you by Lizbeth & Victoria, July 21, 2023</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
       <p></p>
       <h4>Lizbeth: </h4>
+            <p>1. If you have IB Math Y1 (Alg 2) with Mr. Morales, keep everything! Around March you will begin to review for the test, these notes will help when reviewing.</p>
+            <p>2. Topics will go by very quickly, so if you don't understand or need help with any assignments, Mr. Batrez is always there in his room during lunch to help.</p>
+            <p>3. Organize your notes !!! Mr. Batrez lets you use your notes when taking a quiz, but if you don't take notes or if you don't know where anything is at, your notes are useless. (Put your phone down and take good notes!)</p>
       <h4>Victoria: </h4>
             <p>1. WRITE DOWN CALCULATOR STEPS WHEN GIVEN.</p>
             <p>2. Mr. Batrez would rather see you work and get the answer wrong than have a right answer with no work at all. He needs to see what you did wrong so he can help you.</p>
@@ -217,16 +216,14 @@ body {
     </div>
     <div class="card">
       <h2>Theory of Knowledge & AP Gov</h2>
-      <h5>Brought you by Erica, Victoria, & William, July 21, 2023</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <h4>Erica: </h4>
-      <h4>Victoria: </h4>
-      <h4>William: </h4>
+      <h5>Brought you by Everyone, July 21, 2023</h5>
+      <p></p>
+      <p>Both classes will be there to support you in your IB journey and understand you have other stressful classes. For TOK, you need to be active in the class to take notes since they will help for quizzes. For AP Govt., there is a lot of material to cover (read the textbook), but don't stress if everything doesn't stick. For both classes, if you do everything that is asked, you will pass!</p>
+      <p>Appreciate your outside breaks from TOK because you will miss them later.</p>
     </div>
     <div class="card">
       <h2>Spanish HL & SL</h2>
       <h5>Brought you by Erica, Victoria, & William, July 28, 2023</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
       <p></p>
       <h4>Erica: *HL* </h4>
             <p>1. Ms. Tonche is great and you will have an assignment every class in the morning. You will read in class outloud. Instructions are only in Spanish and you need to have a basic understanding of being able to talk, read, and write.</p>
@@ -235,15 +232,15 @@ body {
             <p>2. There may be times when you have no idea what is being read. Never be afraid to ask Ms.Morales to help you understand. There is a great chance that others are just as lost as you are.</p>
             <p>3. Practice speaking Spanish not only in class assignments but also with Ms. Morales and even your friends that know Spanish. Practicing will help you improve your pronunciation and prepare you for the speaking assessment.</p>
       <h4>William: *HL* </h4>
+            <p>1. As a non fluent Spanish speaker, finding someone to help you with this class is a great help.Obviously not cheating but they can help you get more proficient with the language.</p>
+            <p>2. Try to pay attention and pick up as many words as you can to gain proficiency faster.</p>
     </div>
     <div class="card">
       <h2>German HL & SL</h2>
       <h5>Brought you by our *Special Guests* Camila, Karen, & Yaneth, August 4, 2023</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
       <p></p>      
       <h4>Camila: *HL* </h4>
       <h4>Karen: *SL* </h4>
-      <h4>Yaneth: *HL* </h4>
     </div>
   </div>
 
