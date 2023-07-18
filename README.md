@@ -241,6 +241,10 @@ body {
       <p></p>      
       <h4>Camila: *HL* </h4>
       <h4>Karen: *SL* </h4>
+            <p>1. Watch shows or movies in German (you can have English subtitles and German audio or German subtitles and English audio) or (if you really like the show, watch it in English to understand it and then in German). Listen to music in German.</p>
+            <p>2. Class will also be easier cause Here Johnson will only be talking to you in German more often, almost exclusively.</p>
+            <p>3. Practice speaking and writing German inside and outside of class
+(I wish I would have done these sooner). All of these will help with expanding your vocabulary and being able to formulate sentences better.</p>
     </div>
   </div>
 
