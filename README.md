@@ -237,7 +237,7 @@ body {
     </div>
     <div class="card">
       <h2>German HL & SL</h2>
-      <h5>Brought you by our *Special Guests* Camila, Karen, & Yaneth, August 4, 2023</h5>
+      <h5>Brought you by our *Special Guests* Camila & Karen, August 4, 2023</h5>
       <p></p>      
       <h4>Camila: *HL* </h4>
             <p>1. Make a German diary where you write an entry  everyday to practice writing German. Write about anything like what your day was like, how you felt or even write a story, whatever you want to do.</p>
