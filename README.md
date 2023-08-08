@@ -240,6 +240,9 @@ body {
       <h5>Brought you by our *Special Guests* Camila, Karen, & Yaneth, August 4, 2023</h5>
       <p></p>      
       <h4>Camila: *HL* </h4>
+            <p>1. Make a German diary where you write an entry  everyday to practice writing German. Write about anything like what your day was like, how you felt or even write a story, whatever you want to do.</p>
+            <p>2. Practice conversations in German by talking with other german students to improve your speaking and pronunciation. Give each other feedback.</p>
+            <p>3. Watch German films or shows to practice listening to german. Watch the films at least twice to fully understand conversations, plot, common words, sentence structure, etc.</p>
       <h4>Karen: *SL* </h4>
             <p>1. Watch shows or movies in German (you can have English subtitles and German audio or German subtitles and English audio) or (if you really like the show, watch it in English to understand it and then in German). Listen to music in German.</p>
             <p>2. Class will also be easier cause Here Johnson will only be talking to you in German more often, almost exclusively.</p>
