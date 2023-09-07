@@ -115,10 +115,10 @@ body {
     <div class="card">
       <h2>About Us</h2>
       <p></p>
-      <p>Erica: Apart of Ladies of Power</p>
-      <p>Lizbeth: Apart of Ladies of Power, NHS, EMERGE</p>
-      <p>Victoria: Apart of Redcoats, Writing Center, Eco Club</p>
-      <p>William: Apart of Writing Center, Eco Club, Tennis</p>
+      <p>Erica: A part of Ladies of Power, German Club</p>
+      <p>Lizbeth: A part of Ladies of Power, NHS, EMERGE</p>
+      <p>Victoria: A part of Redcoats, Writing Center, Eco Club</p>
+      <p>William: A part of Writing Center, Eco Club, Tennis</p>
     </div>
 
 <div class="row">
@@ -140,6 +140,8 @@ body {
             <p>1. Use the tool of the writing center. It is free extra points and it actually helps make your writing skills and individual essays sound better.</p>
             <p>2. Procrastination never hurt me. 😂</p>
             <p>3. Talk to Ms. Seward about any concerns you have whether about a subject matter, the book, grammar, or etc. She is incredibly nice and understanding except for late work.</p>
+        <h4>Lizbeth: </h4>
+            <p>You will eventually get assigned reading (from 70 to 150 pages), and get Quote Quiz on Monday. READ. I usually read the weekend before the test since everything was fresh in my mind, but Ms.Seward recommends reading it twice for extra foundation.  </p>
     </div>
     <div class="card">
       <h2>History of the Americas HL</h2>
