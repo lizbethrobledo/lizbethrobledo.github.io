@@ -64,7 +64,6 @@ body {
 
 <div class="header">
   <h2>IBUWJC</h2>
-  <p>IB Unofficial Website Junior Classes</p>
 </div>
 
 <head>
